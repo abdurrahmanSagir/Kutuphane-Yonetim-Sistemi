@@ -1,0 +1,33 @@
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe.config
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.pdb
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csprojAssemblyReference.cache
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Properties.Resources.resources
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.GenerateResource.cache
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.pdb
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.AnaSayfa.resources
+C:\Users\er_si\Desktop\Kutuphane Sistemi\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Kutuphane.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.AnaSayfa.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Kutuphane.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\bin\Debug\Kutuphane Yonetim Sistemi.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.AnaSayfa.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Kutuphane.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane_Yonetim_Sistemi.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\Wissen\sql\Kutuphane Yonetim Sistemi\Kutuphane Yonetim Sistemi\obj\Debug\Kutuphane Yonetim Sistemi.pdb
