@@ -1,2 +1,2 @@
 # Kutuphane-Y-netim-Sistemi
-Ado.Net
+Ado.Net r
